@@ -1,2 +1,3 @@
 # tiktokviewbot
-idk wat to put
+download tiktok-main.zip
+have fun
